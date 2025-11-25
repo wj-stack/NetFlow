@@ -1,0 +1,5 @@
+{
+  "name": "Speed Strategy Configurator",
+  "description": "A dashboard for managing network speed allocation strategies, allowing administrators to define rules for user types, time periods, and generate configuration JSON.",
+  "requestFramePermissions": []
+}
